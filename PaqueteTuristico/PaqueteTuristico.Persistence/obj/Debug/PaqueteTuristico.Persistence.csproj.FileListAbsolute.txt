@@ -1,0 +1,14 @@
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\bin\Debug\PaqueteTuristico.Persistence.dll.config
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\bin\Debug\PaqueteTuristico.Persistence.dll
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\bin\Debug\PaqueteTuristico.Persistence.pdb
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\bin\Debug\EntityFramework.dll
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\bin\Debug\PaqueteTuristico.Entities.dll
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\bin\Debug\PaqueteTuristico.Entities.pdb
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\bin\Debug\EntityFramework.xml
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\obj\Debug\PaqueteTuristico.Persistence.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\obj\Debug\PaqueteTuristico.Persistence.dll
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\obj\Debug\PaqueteTuristico.Persistence.pdb
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\obj\Debug\PaqueteTuristico.Persistence.Migrations.InitialModel.resources
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Persistence\obj\Debug\PaqueteTuristico.Persistence.csproj.GenerateResource.Cache

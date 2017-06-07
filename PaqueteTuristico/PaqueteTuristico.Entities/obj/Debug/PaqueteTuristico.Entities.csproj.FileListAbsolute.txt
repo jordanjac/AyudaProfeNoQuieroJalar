@@ -1,0 +1,4 @@
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Entities\bin\Debug\PaqueteTuristico.Entities.dll
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Entities\bin\Debug\PaqueteTuristico.Entities.pdb
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Entities\obj\Debug\PaqueteTuristico.Entities.dll
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Entities\obj\Debug\PaqueteTuristico.Entities.pdb

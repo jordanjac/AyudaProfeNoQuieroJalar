@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Console\bin\Debug\PaqueteTuristico.Console.exe.config
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Console\bin\Debug\PaqueteTuristico.Console.exe
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Console\bin\Debug\PaqueteTuristico.Console.pdb
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Console\obj\Debug\PaqueteTuristico.Console.exe
+D:\Documentos\Visual Studio 2017\Projects\PaqueteTuristico\PaqueteTuristico.Console\obj\Debug\PaqueteTuristico.Console.pdb
